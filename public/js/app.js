@@ -1,4 +1,4 @@
-console.log('Client side javascript file is loaded!');
+// console.log('Client side javascript file is loaded!');
 
 // const url = 'https://puzzle.mead.io/puzzle';
 // fetch(url).then((response) => {
