@@ -17,7 +17,7 @@
 //   // });
 // });
 
-const wurl = 'http://localhost:3000/weather';
+const wurl = '/weather';
 
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
